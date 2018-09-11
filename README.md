@@ -7,9 +7,10 @@ This project demonstrate how can we use below and run test cases.
 - Jasmine 
 
 ### Get project 
-    git clone 
+    git clone https://github.com/roopkt/angularjs-1.5.8-karma-typescript-jasmine.git 
 
 ### Install 
+    cd angularjs-1.5.8-karma-typescript-jasmine
     npm i 
 
 ### Start locally
